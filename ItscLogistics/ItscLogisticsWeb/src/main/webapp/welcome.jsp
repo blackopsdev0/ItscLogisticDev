@@ -40,7 +40,7 @@
 </head>
 <body class=" sidebar-mini">
 	<div class="wrapper ">
-		<div class="sidebar" data-color="orange">
+		<div class="sidebar" data-color="green">
 			<!--
                Tip 1: You can change the color of the sidebar using: data-color="blue | green | orange | red | yellow"
                -->
